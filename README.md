@@ -38,9 +38,3 @@ The application features a clean, tabbed interface with 5 main modules:
 6. 🌙 **UI Themes:** Built-in support for toggling between Dark and Light modes.
 
 ---
-
-## 🛠️ Prerequisites & Installation
-
-
-
-سئوی اینو دزست کن خیلی خوب باشه 
